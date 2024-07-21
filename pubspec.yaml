@@ -1,5 +1,5 @@
-name: myapp
-description: "A new Flutter project."
+name: counter
+description: "A simple flutter app to demonstrate bloc"
 publish_to: 'none'
 
 

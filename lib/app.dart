@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/counter/view/counter_page.dart';
+import 'package:counter/counter/view/counter_page.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
